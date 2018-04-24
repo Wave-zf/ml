@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background: #E3EEEC;
+    font-family: "Bookman", Georgia, "Times New Roman", serif;
+}
+
+.passage{
+    float:left;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+p{
+    margin-left: 30px;
+    color:#44C1A5;
+    margin-bottom: 60px;
+    font-size:24px;
+}
+#name{
+    width: 200px;
+    height: 30px;
+    line-height: 100px;
+    color:gray;
+    margin-bottom: 30px;
+
+}
+#tel{
+    width: 200px;
+    height: 30px;
+    line-height: 100px;
+    color:gray;
+    margin-bottom: 30px;
+
+}
+#price{
+    width: 200px;
+    height: 30px;
+    line-height: 100px;
+    color:gray;
+    margin-bottom: 30px;
+
+
+}
+#jj{
+    color:gray;
+    margin-bottom: 30px;
+    margin-left: 80px;
+}
+#cz{
+     width: 100px;
+     height: 40px;
+     text-align: center;
+     line-height: 30px;
+     margin-left: 30px;
+     font-size: 20px;
+     text-decoration: none;
+
+ }
+
+#fb{
+    width: 100px;
+    height: 40px;
+
+    line-height: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
